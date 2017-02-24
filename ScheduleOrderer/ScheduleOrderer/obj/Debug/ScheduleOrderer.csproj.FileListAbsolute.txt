@@ -1,0 +1,15 @@
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\bin\Debug\ScheduleOrderer.dll
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\bin\Debug\ScheduleOrderer.pdb
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.dll
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.pdb
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.csproj.GenerateResource.Cache
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\Infinity.Window.resources
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.csprojResolveAssemblyReference.cache
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\bin\Debug\ScheduleOrderer.dll
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\bin\Debug\ScheduleOrderer.pdb
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\obj\Debug\Infinity.Window.resources
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.csproj.GenerateResource.Cache
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.dll
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.pdb
+D:\Работа\Google\Revit Developing\ScheduleOrderer\ScheduleOrderer\obj\Debug\ScheduleOrderer.csprojResolveAssemblyReference.cache
+D:\My Revit Library\Developed\ScheduleOrderer\ScheduleOrderer\obj\Debug\Infinity.ProgressWindow.resources
